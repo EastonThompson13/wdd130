@@ -1,0 +1,13 @@
+.para {
+    font-size:1.5em;
+    line-height: 1.5em;
+}
+
+a {
+    background-color: darkblue;
+    font-size: 1.5em;
+    color: whitesmoke;
+    padding: 10px;
+    text-decoration: none;
+}
+

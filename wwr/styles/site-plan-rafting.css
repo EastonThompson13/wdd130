@@ -16,15 +16,15 @@ Fonts are separated by a & */
   --paragraph-font: Oleo Script Swash Caps;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #396E94;  /* headlines on a white background */ 
-  --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #396E94  ;
-  --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --headline-color-on-white: #154467;  /* headlines on a white background */ 
+  --headline-color-on-color: #476a87; /* headlines on a colored background */ 
+  --paragraph-color-on-white: #8ba4b4; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #e6e5c8; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #154467  ;
+  --nav-link-color: #476a87;
+  --nav-background-color: #8ba4b4;
+  --nav-hover-link-color: #e6e5c8;
+  --nav-hover-background-color: #154467;
 }
 
 
